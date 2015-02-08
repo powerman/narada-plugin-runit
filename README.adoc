@@ -2,7 +2,8 @@ Narada plugin: runit
 ====================
 
 This repo contains extra files needed to add service supervision using
-http://smarden.org/runit/[runit] for Narada projects.
+http://smarden.org/runit/[runit] for
+https://github.com/powerman/Narada[Narada] projects.
 
 There are different sets of files available in different branches:
 
